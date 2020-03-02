@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^7.9.3",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-keyboard-event-handler": "^1.5.4",
